@@ -105,10 +105,3 @@ http://www.cs.arizona.edu/~greg/mpdbook/programs/pc.sems.c
 Deliverables
 Complete source code in ONE FILE commented thoroughly and clearly.
 Assignment 3 - Semaphores 7
-Name your file as your ID (e.g., 5237.c, 5237.cpp, 5237.C, 5237.cc, …)
-Notes
-1. Language used: C/C++, Operating System: Linux.
-2. You should work individually.
-3. You may talk together about the algorithms or functions being used but are not
-allowed to look at anybody’s code.
-4. Revise the academic integrity note found on the class web page
